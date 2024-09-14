@@ -1,0 +1,150 @@
+
+header{
+	background-color:#0C0027;
+	color:#751DBC;
+	padding: 10px;
+	
+	
+}
+
+
+footer{
+	
+	padding: 20px;
+	text-align: center;
+	background-color: #0C0027;
+	color:#751DBC;
+}
+
+#hero{
+	text-align: center;
+	background-color:#000000;
+	color:#FFFFFF;
+	padding-bottom:40px ;
+	padding-top:40px ;
+	
+}
+
+#Servicios{
+	background-color: #141414;
+	padding-bottom: 80px;
+	padding-top: 80px;
+}
+
+#Contacto{
+	text-align: center;
+	background-color: #000000;
+	color:#fff;
+	padding-bottom:60px;
+	padding-top: 60px;
+	
+}
+
+#Contacto h2{
+	text-align: center;
+	font-size: 45px;
+	
+}
+
+.targeta{
+	padding:30px;
+	background-color: #fff;
+	text-align: center; 
+	border-radius: 10px;
+}
+
+.targeta p{
+	
+	font-size:16px;
+	font-weight:300;
+	
+}
+
+
+.targeta i {
+	
+	color:#2653e3;
+	margin-bottom: 20px;
+	font-size: 40px;
+	
+	
+}
+
+.targeta h4{
+	
+	font-weight:600; 
+	font-size: 20px;
+	margin-bottom: 30px ;
+}
+
+#Portafolio-de-proyectos img{
+	width:350px;
+	margin-top: 30px;
+	border-radius: 20px;
+	
+}
+
+
+#Portafolio-de-proyectos{
+	background-color:#24152C;
+	padding-bottom: 60px;
+	padding-top: 30px;
+	padding-left: 110px;
+	padding-right:10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
